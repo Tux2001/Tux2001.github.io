@@ -45,9 +45,18 @@ h1{
     background-position: 0 0;
 }
 
-.stickyMenu {
+div.stickyMenu {
     position: -webkit-sticky;
     position: sticky;
     top: 0;
     padding: 50px;
+}
+
+img{
+  border-radius: 8px;
+  width: 200px; 
+}
+
+#portfollio{
+    image-resolution: 1920px;
 }
