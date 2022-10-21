@@ -45,6 +45,7 @@ h1{
     background-position: 0 0;
 }
 
+/*used w3 schools: https://www.w3schools.com/howto/howto_css_sticky_element.asp */
 div.stickyMenu {
     position: -webkit-sticky;
     position: sticky;
