@@ -61,3 +61,9 @@ img{
 #portfollio{
     image-resolution: 1920px;
 }
+
+div.classWork{
+    width: 100px;
+    border: 1px black;
+    
+}
