@@ -45,17 +45,22 @@ h1{
     background-position: 0 0;
 }
 
+.paragraph {
+    text-align: left;
+    flex-wrap: wrap-reverse;
+    }
+
 /*used w3 schools: https://www.w3schools.com/howto/howto_css_sticky_element.asp */
 div.stickyMenu {
     position: -webkit-sticky;
     position: sticky;
     top: 0;
-    padding: 50px;
+    padding: 0px;
 }
 
 img{
-  border-radius: 8px;
-  width: 200px; 
+  border-radius: 10px;
+  width: 600px; 
 }
 
 #portfollio{
